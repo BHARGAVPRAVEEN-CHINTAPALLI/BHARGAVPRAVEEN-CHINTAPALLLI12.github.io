@@ -1,8 +1,11 @@
 {
   "name": "portfolio",
-  "homepage": "https://BHARGAVPRAVEEN-CHINTAPALLI.github.io/personalwebsite",
+  "homepage": "https://BHARGAVPRAVEEN-CHINTAPALLI.github.io",
   "version": "0.1.0",
   "private": true,
+  git add .
+  git commit -m "Update homepage and remove previous owner configurations"
+  git push origin main,
   "dependencies": {
     "@formspree/react": "^2.2.3",
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
